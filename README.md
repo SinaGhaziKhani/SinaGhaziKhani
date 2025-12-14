@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Sina
 
-<!--
-**SinaGhaziKhani/SinaGhaziKhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Programmer  
+📚 Always learning, always building
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- Python 🐍
+- Dart 🎯
+- JavaScript ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Mindset
+> Focus on progress, not perfection.
+
+### 📈 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=SinaGhaziKhani&show_icons=true&theme=dark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinaGhaziKhani&layout=compact&theme=dark)
